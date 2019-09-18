@@ -1,0 +1,12 @@
+body {
+  background-image: url('../img/gallery/retina_wood.png');
+}
+.text-primary {
+  color: maroon !important;
+}
+.bg-primary {
+  background: maroon !important;
+}
+a {
+  color: maroon;
+}
